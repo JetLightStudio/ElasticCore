@@ -27,6 +27,9 @@ The steps are very easy you only have to
 * Support me by making a <img style="margin-bottom: -20px;" src="https://user-images.githubusercontent.com/24621701/44811262-193e6e00-abcc-11e8-8e61-e52d8c78d5c9.png" /> for the repo and thank you :D , If you want to contribute to the project and make it better, your help is very welcome. 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/24621701/46341808-33260300-c607-11e8-8183-7f785ce6ef2c.png)
+![image](https://user-images.githubusercontent.com/24621701/46341959-9c0d7b00-c607-11e8-8d57-3d5f785980be.png)
+
+![image](https://user-images.githubusercontent.com/24621701/46341903-71232700-c607-11e8-90e9-dafdc52e743b.png)
+
 
 
