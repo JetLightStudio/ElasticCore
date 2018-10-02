@@ -29,4 +29,5 @@ The steps are very easy you only have to
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/24621701/46341722-f4904880-c606-11e8-86ad-da91eaf62678.png)
 
-![image](https://user-images.githubusercontent.com/24621701/46341490-340a6500-c606-11e8-8531-1ab81d317b82.png)
+![image](https://user-images.githubusercontent.com/24621701/46341760-12f64400-c607-11e8-8c78-09dfba058294.png)
+
